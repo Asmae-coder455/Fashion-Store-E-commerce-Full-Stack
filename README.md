@@ -7,8 +7,6 @@ A full-stack e-commerce web application for cosmetics and jewelry, built with PH
 **Admin Credentials**
 **Email:** admin@gmail.com
 **Password:** Admin_10 
- 
-🔗 Live Demo: https://daniyal-jenny-fashion-store.infinityfreeapp.com/
 ---
 
 ## Features
