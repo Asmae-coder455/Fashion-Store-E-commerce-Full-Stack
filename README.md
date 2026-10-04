@@ -1,4 +1,4 @@
-# Jenny Fashion Store 💄✨
+# Fashion Store ✨
 
 A full-stack e-commerce web application for cosmetics and jewelry, built with PHP 8.2 and MySQL 8.0. Features a complete customer-facing storefront alongside a dedicated admin panel for managing the entire business.
 
