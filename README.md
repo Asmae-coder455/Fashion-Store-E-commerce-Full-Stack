@@ -120,17 +120,3 @@ bash start.sh
 | `contact_messages` | Customer contact form submissions |
 
 ---
-
-## 👨‍💻 Author
-
-**M. Daniyal**
-- GitHub: https://github.com/daniyal-khan-dev
-- LinkedIn: www.linkedin.com/in/m-daniyal-khan
-- Email: daniyalkhan0445@gmail.com
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact via email
-- Connect on LinkedIn
